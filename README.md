@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gebruikers-naam
-- 👀 I’m interested in using and helping to improve openCPN
-- 🌱 I’m currently learning Spanish
+- 👋 Hi, I’m Jef
+- 👀 I’m using openCPN since many years and like to contribute to improve it
+- 🌱 We are sailing to Japan
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
